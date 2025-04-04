@@ -10,7 +10,7 @@ Install Python 3
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip
-cd FUCKDOS/fuckdos
+cd FUCKDOS/fuck
 pip install -r requirements.txt
 python fuckdos.py -h
 python3 fuckdos.py https://example.com -t 20 -r 50
@@ -23,7 +23,7 @@ Install Python 3
 ```bash
 pkg update
 pkg install python
-cd FUCKDOS/fuckdos
+cd FUCKDOS/fuck
 pip install -r requirements.txt
 python fuckdos.py -h
 python fuckdos.py https://example.com -t 20 -r 50
