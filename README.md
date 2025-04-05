@@ -4,10 +4,6 @@
 
 > a high-frequency HTTP request sending tool designed for testing and suppression purposes. It can send random HTTP requests (GET, POST, PUT, DELETE) to specified target URLs
 >
-> UPDATE NEW METHODS
-> - FUCKDOS
-> - FUCKHTTP
->
 > MAKE FROM INDONESIA | CREDIT BY VINNOTSEPUH
 
 
@@ -50,4 +46,12 @@ python fuckdos.py
 [+] Logging System: Logs all attack activities into a file (`http_flood.log`) for further analysis.
 [+] Colorful Output: Uses the `colorama` library to display colored output in the terminal.
 [+] Argument Parsing: Uses `argparse` to accept command-line inputs like target URLs, thread count, and request rate.
+
+[+] UPDATE METHODS | COOMING SOON
+[+] FUCKDOS
+[+] FUCKHTTP
+[+] FUCK-PPS
+
+[+] NEW UPDATE BETA METHODS
+[+] FUCKBITCH
 ```
