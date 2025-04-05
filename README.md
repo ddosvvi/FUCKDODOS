@@ -16,7 +16,7 @@ Install Python 3
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip
-cd FUCKDOS/fuck
+cd FUCKDODOS/fuck
 pip install -r requirements.txt
 python3 fuckdos.py
 ```
@@ -28,7 +28,7 @@ Install Python 3
 ```bash
 pkg update
 pkg install python
-cd FUCKDOS/fuck
+cd FUCKDODOS/fuck
 pip install -r requirements.txt
 python fuckdos.py
 ```
