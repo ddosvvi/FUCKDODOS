@@ -1,5 +1,7 @@
 # FUCKDODOS
 
+![Screenshot_1](https://github.com/ddosvvi/FUCKDODOS/blob/main/FUCKDODOS.png)
+
 > a high-frequency HTTP request sending tool designed for testing and suppression purposes. It can send random HTTP requests (GET, POST, PUT, DELETE) to specified target URLs
 >
 > UPDATE NEW METHODS
