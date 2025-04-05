@@ -8,7 +8,6 @@
 >
 > MAKE FROM INDONESIA
 > CREDIT BY VinNotSepuh
-> Telegram : T.me/VinNotSepuh
 
 
 ## Installation on Linux 
