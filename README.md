@@ -48,10 +48,10 @@ python fuckdos.py
 [+] Argument Parsing: Uses `argparse` to accept command-line inputs like target URLs, thread count, and request rate.
 
 [+] UPDATE METHODS | COOMING SOON
-[+] FUCKDOS
-[+] FUCKHTTP
-[+] FUCK-PPS
+[+] FUCKDOS  | LAYER 7
+[+] FUCKHTTP | LAYER 7
+[+] FUCK-PPS | LAYER 4
 
 [+] NEW UPDATE BETA METHODS
-[+] FUCKBITCH
+[+] FUCKBITCH | LAYER 7
 ```
