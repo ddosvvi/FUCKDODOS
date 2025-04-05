@@ -5,6 +5,10 @@
 > UPDATE NEW METHODS
 > - FUCKDOS
 > - FUCKHTTP
+>
+> MAKE FROM INDONESIA
+> CREDIT BY VinNotSepuh
+> Telegram : T.me/VinNotSepuh
 
 
 ## Installation on Linux 
@@ -17,7 +21,6 @@ sudo apt install python3 python3-pip
 cd FUCKDOS/fuck
 pip install -r requirements.txt
 python3 fuckdos.py
-python3 fuckdos.py https://example.com -t 20 -r 50
 ```
 
 ## Installation on Termux
@@ -30,7 +33,6 @@ pkg install python
 cd FUCKDOS/fuck
 pip install -r requirements.txt
 python fuckdos.py
-python fuckdos.py https://example.com -t 20 -r 50
 ```
 
 ## List of Features Already Added
