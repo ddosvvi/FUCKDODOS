@@ -1,4 +1,4 @@
-# FUCKDOS
+# FUCKDODOS
 
 > a high-frequency HTTP request sending tool designed for testing and suppression purposes. It can send random HTTP requests (GET, POST, PUT, DELETE) to specified target URLs
 >
