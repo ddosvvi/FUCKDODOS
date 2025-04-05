@@ -6,8 +6,7 @@
 > - FUCKDOS
 > - FUCKHTTP
 >
-> MAKE FROM INDONESIA
-> CREDIT BY VinNotSepuh
+> MAKE FROM INDONESIA | CREDIT BY VINNOTSEPUH
 
 
 ## Installation on Linux 
